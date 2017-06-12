@@ -1,0 +1,25 @@
+{
+  "name": "erica",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "burger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "erod8705"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Erica R.",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0"
+  }
+}
